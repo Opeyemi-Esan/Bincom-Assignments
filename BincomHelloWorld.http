@@ -1,0 +1,6 @@
+@BincomHelloWorld_HostAddress = http://localhost:5033
+
+GET {{BincomHelloWorld_HostAddress}}/greeting/
+Accept: application/json
+
+###
